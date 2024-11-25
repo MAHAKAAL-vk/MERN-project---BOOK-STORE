@@ -2,7 +2,7 @@
 
 This project is a comprehensive full stack MERN (MongoDB, Express, React, Node.js) stack bookstore website. The project covers both frontend and backend development from the ground up.
 
-# Team Members
+## Team Members
 1. Hari Prasath S
 2. Vikash Kushwaha
 3. Jaya Arayan J
@@ -41,51 +41,57 @@ This project is a full stack bookstore application built using the MERN stack. I
 To get started with the project, follow these steps:
 
 1. **Clone the repository**:
-   ```sh
+   ```
    git clone https://github.com/yourusername/bookstore-app.git
    cd bookstore-app
-Install dependencies:
-
-sh
+   ```
+2. ** Install dependencies:**
 # Install backend dependencies
-cd backend
-npm install
-
+   ```
+   cd backend
+   npm install
+   ```
 # Install frontend dependencies
-cd ../frontend
-npm install
-Set up environment variables: Create a .env file in the backend directory and add the following environment variables:
+   ```
+   cd ../frontend
+   npm install
+   ```
+3. **Set up environment variables:** Create a .env file in the backend directory and add the following environment variables:
 
-sh
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-Run the application:
+   ```
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   ```
+   
+4. **Run the application:**
 
-sh
-# Run backend server
-cd backend
-npm start
-
-# Run frontend server
-cd ../frontend
-npm start
-Usage
-Once the application is running, you can access it at http://localhost:3000. You can sign up as a new user, browse books, add them to your cart, and place orders. Admin users can manage books and orders through the admin panel.
+   # Run backend server
+   ```
+   cd backend
+   npm start
+   ```
+   # Run frontend server
+   ```
+   cd ../frontend
+   npm start
+   ```
+##Usage
+Once the application is running, you can access it at ```http://localhost:3000```. You can sign up as a new user, browse books, add them to your cart, and place orders. Admin users can manage books and orders through the admin panel.
 
 # Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
 
-2.Create a new branch (git checkout -b feature/your-feature).
+2.Create a new branch (```git checkout -b feature/your-feature```).
 
-3.Make your changes and commit them (git commit -m 'Add some feature').
+3.Make your changes and commit them (```git commit -m 'Add some feature'```).
 
-4.Push to the branch (git push origin feature/your-feature).
+4.Push to the branch (```git push origin feature/your-feature```).
 
 5.Open a pull request.
 
 # Acknowledgements
-This project was inspired by the YouTube tutorial by freeCodeCamp.org.
+- This project was inspired by the YouTube tutorial by freeCodeCamp.org.
 
-Special thanks to the open-source community for providing the tools and libraries used in this project.
+- Special thanks to the open-source community for providing the tools and libraries used in this project.

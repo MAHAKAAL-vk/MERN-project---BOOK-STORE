@@ -72,20 +72,20 @@ npm start
 Usage
 Once the application is running, you can access it at http://localhost:3000. You can sign up as a new user, browse books, add them to your cart, and place orders. Admin users can manage books and orders through the admin panel.
 
-Contributing
+# Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
+1.Fork the repository.
 
-Create a new branch (git checkout -b feature/your-feature).
+2.Create a new branch (git checkout -b feature/your-feature).
 
-Make your changes and commit them (git commit -m 'Add some feature').
+3.Make your changes and commit them (git commit -m 'Add some feature').
 
-Push to the branch (git push origin feature/your-feature).
+4.Push to the branch (git push origin feature/your-feature).
 
-Open a pull request.
+5.Open a pull request.
 
-Acknowledgements
+# Acknowledgements
 This project was inspired by the YouTube tutorial by freeCodeCamp.org.
 
 Special thanks to the open-source community for providing the tools and libraries used in this project.

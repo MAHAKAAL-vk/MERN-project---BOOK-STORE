@@ -56,7 +56,22 @@ To get started with the project, follow these steps:
    cd ../frontend
    npm install
    ```
-# 3. **Set up environment variables:** Create a .env file in the backend directory and add the following **Environment variables**:
+# 3. **Set up environment variables:** 
+
+**For frontend**
+Create a **.env.local** file in the frontend root directory and add the following **Environment variables**:
+   ```
+   >>> Stepup firebase app and configure the environment
+
+   VITE_API_KEY="AIzaSyCXvDIC4MPrkaMdeg_O2iij88wLpfj3qBA"
+   VITE_Auth_Domain="book-store-mern-app.firebaseapp.com"
+   VITE_PROJECT_ID="book-store-mern-app"
+   VITE_STORAGE_BUCKET="book-store-mern-app.appspot.com"
+   VITE_MESSAGING_SENDERID= "205632822247"
+   VITE_APPID="1:205632822247:web:b0db0ec66bf6de0bbb3b42"
+   ```
+**For backend**
+Create a **.env** file in the backend root directory and add the following **Environment variables**:
 
    ```
    MONGO_URI=your_mongodb_connection_string

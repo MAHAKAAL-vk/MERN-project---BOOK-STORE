@@ -68,12 +68,12 @@ To get started with the project, follow these steps:
 **Run backend server**
    ```
    cd backend
-   npm start
+   npm run start: dev
    ```
 **Run frontend server**
    ```
    cd ../frontend
-   npm start
+   npm run dev
    ```
 ## Usage
 Once the application is running, you can access it at ```http://localhost:3000```. You can sign up as a new user, browse books, add them to your cart, and place orders. Admin users can manage books and orders through the admin panel.

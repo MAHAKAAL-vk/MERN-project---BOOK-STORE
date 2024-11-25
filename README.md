@@ -92,6 +92,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## Acknowledgements
-- This project was inspired by the [](#YouTube_Tutorial) by [freeCodeCamp.org](#freeCodeCamp.org).
+- This project was inspired by the [YouTube Tutorial](#YouTube_Tutorial) by [freeCodeCamp.org](#freeCodeCamp.org).
 
 - Special thanks to the open-source community for providing the tools and libraries used in this project.

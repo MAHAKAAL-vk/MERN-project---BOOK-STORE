@@ -92,7 +92,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## Acknowledgements
-- This project is assigned by [SmartIntenz](#smartinternz.com) under the intenship course in [MERN stack powered by Mongo DB] organanized by Tamil Nadu government initiative and upskilling program [Naan Mudhalvan](#www.naanmudhalvan.tn.gov.in).
+- This project is assigned by [SmartIntenz](#smartinternz.com) under the intenship course in [MERN stack powered by Mongo DB](#) organanized by Tamil Nadu government initiative and upskilling program [Naan Mudhalvan](#www.naanmudhalvan.tn.gov.in).
 
 - The references have been taken by the [YouTube Tutorial](#freeCodeCamp.org) by [freeCodeCamp.org](#freeCodeCamp.org).
 

@@ -85,9 +85,6 @@ Push to the branch (git push origin feature/your-feature).
 
 Open a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgements
 This project was inspired by the YouTube tutorial by freeCodeCamp.org.
 

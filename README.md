@@ -17,7 +17,6 @@ This project is a comprehensive full stack MERN (MongoDB, Express, React, Node.j
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction

@@ -25,7 +25,7 @@ This project is a full stack bookstore application built using the MERN stack. I
 
 ## ER-Diagram
 
-[ER-Diagram](#ER - Model MERN Project.png)
+![ER-Diagram](ER-Model_MERN-Project.png)
 
 ## Features
 - User authentication (sign up, login, logout)

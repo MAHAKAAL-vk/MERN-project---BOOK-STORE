@@ -11,6 +11,7 @@ This project is a comprehensive full stack MERN (MongoDB, Express, React, Node.j
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [ER-Diagram](#ER-Diagram)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -21,6 +22,10 @@ This project is a comprehensive full stack MERN (MongoDB, Express, React, Node.j
 
 ## Introduction
 This project is a full stack bookstore application built using the MERN stack. It allows users to browse, search, and purchase books. The application includes user authentication, book management, and order processing functionalities.
+
+## ER-Diagram
+
+![ER-Diagram](ER - Model MERN Project.png)
 
 ## Features
 - User authentication (sign up, login, logout)
